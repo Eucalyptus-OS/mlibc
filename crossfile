@@ -1,0 +1,12 @@
+[binaries]
+c = 'x86_64-eucalypt-gcc'
+cpp = 'x86_64-eleucalyptf-g++'
+ar = 'x86_64-eucalypt-ar'
+windres = 'x86_64-eucalypt-windres'
+strip = 'x86_64-eucalypt-strip'
+
+[host_machine]
+system = 'eucalypt'
+cpu_family = 'x86_64'
+cpu = 'x86_64'
+endian = 'little'
