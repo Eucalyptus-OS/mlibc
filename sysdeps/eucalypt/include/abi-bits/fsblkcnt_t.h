@@ -1,0 +1,4 @@
+#ifndef _ABIBITS_FSBLKCNT_T_H
+#define _ABIBITS_FSBLKCNT_T_H
+typedef unsigned long fsblkcnt_t;
+#endif
