@@ -10,6 +10,7 @@ if not no_headers
 		'include/abi-bits/mode_t.h',
 		'include/abi-bits/seek-whence.h',
 		'include/abi-bits/stat.h',
+		'include/abi-bits/blkcnt_t.h',
 		subdir: 'abi-bits',
 		follow_symlinks: true
 	)
