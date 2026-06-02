@@ -1,6 +1,6 @@
 [binaries]
 c = 'x86_64-eucalypt-gcc'
-cpp = 'x86_64-eleucalyptf-g++'
+cpp = 'x86_64-eucalypt-g++'
 ar = 'x86_64-eucalypt-ar'
 windres = 'x86_64-eucalypt-windres'
 strip = 'x86_64-eucalypt-strip'

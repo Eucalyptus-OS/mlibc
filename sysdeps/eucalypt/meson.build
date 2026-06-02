@@ -1,5 +1,5 @@
 sysdep_supported_options = {
-	'posix': false,
+	'posix': auto,
 }
 
 if not no_headers
