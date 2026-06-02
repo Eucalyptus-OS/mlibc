@@ -8,7 +8,7 @@ if not no_headers
 		'include/abi-bits/errno.h',
 		'include/abi-bits/fcntl.h',
 		'include/abi-bits/mode_t.h',
-		'include/abi-bits/seek-whence.ha',
+		'include/abi-bits/seek-whence.h',
 		'include/abi-bits/stat.h',
 		subdir: 'abi-bits',
 		follow_symlinks: true
