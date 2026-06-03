@@ -1,5 +1,5 @@
 sysdep_supported_options = {
-	'posix': true,
+	'posix': false,
 }
 if not no_headers
 	install_headers(
